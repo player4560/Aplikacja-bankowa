@@ -1,0 +1,16 @@
+﻿<Window x:Class="KoKaBank.AlertWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Alert!" Height="250" Width="450"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+    <StackPanel Margin="20">
+        <TextBlock Text="Uwaga! Zachowaj ostrożność!" 
+                   FontSize="16" FontWeight="Bold" Foreground="Red" Margin="0,0,0,10"/>
+
+        <TextBlock Text="Nigdy nie udostępniaj nikomu swojego numeru klienta ani hasła. KoKa Bank nigdy nie prosi o takie dane telefonicznie lub mailowo. Jeżeli podejrzewasz, że ktoś usiłuje wyłudzić te informacje lub padłeś ofiarą oszustwa, pilnie skontaktuj się z naszą infolinią pod numerem +48 123 456 789." 
+                   TextWrapping="Wrap" Margin="0,0,0,20"/>
+
+        <Button Content="Rozumiem" Width="100" HorizontalAlignment="Center" Click="CloseAlert_Click"/>
+    </StackPanel>
+</Window>
