@@ -1,0 +1,32 @@
+﻿<Window x:Class="KoKaBank.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KoKaBank"
+        mc:Ignorable="d"
+        Title="KoKa Bank - Twoje Finanse, nasza działka" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <!-- logo -->
+
+            <Image Source="/logo KOKA.png" Width="192" Height="135" RenderTransformOrigin="0.36,1.531"/>
+
+            <TextBlock Text="Numer Klienta:" Margin="0,0,0,10" Width="200"/>
+            <TextBox x:Name="loginBox" Height="25" Margin="0,0,0,10" Width="200"/>
+            <TextBlock Text="Hasło:" Margin="0,0,0,10" Width="200"/>
+            <PasswordBox x:Name="PasswordBox" Height="25" Margin="0,0,0,10" Width="200"/>
+            <TextBox x:Name="PasswordTextBox" Height="25" Margin="0,0,0,5" Visibility="Collapsed"/>
+
+
+            <CheckBox x:Name="ShowPasswordCheckBox" Content="Pokaż hasło" Checked="ShowPasswordCheckBox_Checked" Unchecked="ShowPasswordCheckBox_Unchecked" Margin="0,0,0,10" Width="200"/>
+            <!-- pokaz haslo-->
+            <Button Content="Resetuj hasło" Margin="0,0,0,20" Click="ResetPassword_Click" Width="200" RenderTransformOrigin="0.5,0.5" Height="20"/>
+
+
+            <Button Content="Zaloguj" Click="Button_Click" Height="30" Width="200"/>
+            <TextBlock x:Name="OutputText" FontWeight="Bold" Width="200" Margin="0,0,0,0"/>
+            <Button Content="Rejestracja" Height="30" Width="200" Click="Register_Click" Margin="0,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
