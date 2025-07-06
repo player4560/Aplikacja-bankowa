@@ -66,7 +66,6 @@
     <Compile Include="ClientPanelWindow.xaml.cs">
       <DependentUpon>ClientPanelWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="CodeFile1.cs" />
     <Compile Include="DatabaseHelper.cs" />
     <Compile Include="ExTransferWindow.xaml.cs">
       <DependentUpon>ExTransferWindow.xaml</DependentUpon>
@@ -74,7 +73,6 @@
     <Compile Include="InternalTransferWindow.xaml.cs">
       <DependentUpon>InternalTransferWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="NegativeValueConverter.cs" />
     <Compile Include="RegisterWindow.xaml.cs">
       <DependentUpon>RegisterWindow.xaml</DependentUpon>
     </Compile>

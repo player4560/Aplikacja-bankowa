@@ -12,7 +12,7 @@ namespace KoKaBank
         {
             if (value is string text)
             {
-                
+                // Sprawdź czy tekst zaczyna się od minusa
                 return text.StartsWith("-");
             }
             return false;

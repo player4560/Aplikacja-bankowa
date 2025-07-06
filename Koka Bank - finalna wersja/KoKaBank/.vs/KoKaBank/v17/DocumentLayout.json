@@ -1,14 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Koka Bank - finalna wersja\\Koka Bank - finalna wersja\\KoKaBank\\",
+  "WorkspaceRootPath": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|c:\\users\\lenovo\\desktop\\koka bank - finalna wersja\\koka bank - finalna wersja\\kokabank\\kokabank\\clientpanelwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\clientpanelwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|c:\\users\\informatyka\\desktop\\koka bank - finalna wersja\\kokabank\\kokabank\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|C:\\Users\\Lenovo\\Desktop\\Koka Bank - finalna wersja\\Koka Bank - finalna wersja\\KoKaBank\\kokabank\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|c:\\users\\informatyka\\desktop\\koka bank - finalna wersja\\kokabank\\kokabank\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|c:\\users\\informatyka\\desktop\\koka bank - finalna wersja\\kokabank\\kokabank\\alertwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\alertwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|c:\\users\\informatyka\\desktop\\koka bank - finalna wersja\\kokabank\\kokabank\\extransferwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\extransferwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|c:\\users\\informatyka\\desktop\\koka bank - finalna wersja\\kokabank\\kokabank\\extransferwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\extransferwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|c:\\users\\informatyka\\desktop\\koka bank - finalna wersja\\kokabank\\kokabank\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\kokabank\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\kokabank\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\kokabank\\clientpanelwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\clientpanelwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\kokabank\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\kokabank\\alertwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\alertwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\kokabank\\internaltransferwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\internaltransferwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\kokabank\\internaltransferwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAEC0990-DB10-43A6-9CB7-48A393202F8A}|KoKaBank\\KoKaBank.csproj|solutionrelative:kokabank\\internaltransferwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +62,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClientPanelWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Koka Bank - finalna wersja\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\ClientPanelWindow.xaml.cs",
-              "RelativeDocumentMoniker": "KoKaBank\\ClientPanelWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Koka Bank - finalna wersja\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\ClientPanelWindow.xaml.cs",
-              "RelativeToolTip": "KoKaBank\\ClientPanelWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KoKaBank\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "KoKaBank\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAIDPzvzMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T16:25:14.806Z",
+              "WhenOpened": "2025-06-29T10:15:02.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Koka Bank - finalna wersja\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "KoKaBank\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Koka Bank - finalna wersja\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\MainWindow.xaml.cs",
-              "RelativeToolTip": "KoKaBank\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "KoKaBank\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\RegisterWindow.xaml",
+              "RelativeToolTip": "KoKaBank\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-29T10:14:59.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlertWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\AlertWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KoKaBank\\AlertWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\AlertWindow.xaml.cs",
+              "RelativeToolTip": "KoKaBank\\AlertWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T07:41:20.591Z",
+              "WhenOpened": "2025-06-29T10:14:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExTransferWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\ExTransferWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KoKaBank\\ExTransferWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\ExTransferWindow.xaml.cs",
+              "RelativeToolTip": "KoKaBank\\ExTransferWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:13:48.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExTransferWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\ExTransferWindow.xaml",
+              "RelativeDocumentMoniker": "KoKaBank\\ExTransferWindow.xaml",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\ExTransferWindow.xaml",
+              "RelativeToolTip": "KoKaBank\\ExTransferWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-29T10:13:33.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KoKaBank\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KoKaBank\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T07:41:58.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlertWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\AlertWindow.xaml",
+              "RelativeDocumentMoniker": "KoKaBank\\AlertWindow.xaml",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\AlertWindow.xaml",
+              "RelativeToolTip": "KoKaBank\\AlertWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-29T07:55:55.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "KoKaBank\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\DatabaseHelper.cs",
+              "RelativeToolTip": "KoKaBank\\DatabaseHelper.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAswLQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T06:29:28.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KoKaBank\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\MainWindow.xaml",
+              "RelativeToolTip": "KoKaBank\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-29T01:07:35.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientPanelWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\ClientPanelWindow.xaml",
+              "RelativeDocumentMoniker": "KoKaBank\\ClientPanelWindow.xaml",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\ClientPanelWindow.xaml",
+              "RelativeToolTip": "KoKaBank\\ClientPanelWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-29T07:41:01.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\Transaction.cs",
+              "RelativeDocumentMoniker": "KoKaBank\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\Transaction.cs",
+              "RelativeToolTip": "KoKaBank\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T08:07:23.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InternalTransferWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\InternalTransferWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KoKaBank\\InternalTransferWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\InternalTransferWindow.xaml.cs",
+              "RelativeToolTip": "KoKaBank\\InternalTransferWindow.xaml.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T00:36:46.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InternalTransferWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\InternalTransferWindow.xaml",
+              "RelativeDocumentMoniker": "KoKaBank\\InternalTransferWindow.xaml",
+              "ToolTip": "C:\\Users\\Informatyka\\Desktop\\Koka Bank - finalna wersja\\KoKaBank\\KoKaBank\\InternalTransferWindow.xaml",
+              "RelativeToolTip": "KoKaBank\\InternalTransferWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-29T00:35:42.289Z",
               "EditorCaption": ""
             }
           ]

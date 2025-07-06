@@ -16,7 +16,7 @@
             <TextBox x:Name="loginBox" Height="25" Margin="0,0,0,10" Width="200"/>
             <TextBlock Text="Hasło:" Margin="0,0,0,10" Width="200"/>
             <PasswordBox x:Name="PasswordBox" Height="25" Margin="0,0,0,10" Width="200"/>
-            <TextBox x:Name="PasswordTextBox" Height="25" Margin="0,0,0,5" Visibility="Collapsed"/>
+            <TextBox x:Name="PasswordTextBox" Height="25" Margin="0,0,0,10" Width="200" Visibility="Collapsed"/>
 
 
             <CheckBox x:Name="ShowPasswordCheckBox" Content="Pokaż hasło" Checked="ShowPasswordCheckBox_Checked" Unchecked="ShowPasswordCheckBox_Unchecked" Margin="0,0,0,10" Width="200"/>

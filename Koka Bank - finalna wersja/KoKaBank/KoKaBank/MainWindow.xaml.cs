@@ -15,9 +15,9 @@ using System.Windows.Shapes;
 
 namespace KoKaBank
 {
-    /// <summary>
+    
     /// Logika interakcji dla klasy MainWindow.xaml
-    /// </summary>
+    
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -34,7 +34,7 @@ namespace KoKaBank
 
             if (string.IsNullOrWhiteSpace(loginInput) || string.IsNullOrWhiteSpace(passwordInput))
             {
-                OutputText.Text = "Proszę uzupełnić numer klienta i hasło.";
+                OutputText.Text = "Proszę uzupełnić dane logowania.";
                 OutputText.Foreground = System.Windows.Media.Brushes.Red;
                 return;
             }
@@ -59,7 +59,7 @@ namespace KoKaBank
             else
             {
                 OutputText.Foreground = System.Windows.Media.Brushes.Red;
-                OutputText.Text = "Nieprawidłowy numer klienta lub hasło.";
+                OutputText.Text = "Nieprawidłowe dane.";
             }
         }
 
